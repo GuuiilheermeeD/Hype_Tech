@@ -5,9 +5,10 @@ html {
 }
 
 header {
-    width: 100%;
+    width: 80%;
     height: 80px;
-    background-color: rgb(216, 213, 213);
+    margin: auto;
+    background-color: rgb(255, 255, 255);
     padding: 5px;
     justify-content: space-around;
 
@@ -100,8 +101,7 @@ main {
 .selecaoP {
     background-color: aliceblue;
     display: flex;
-    max-width: 1120px;
-    min-width: 1120px;
+    width: 1120px;
     height: auto;
     margin: auto;
     flex-wrap: wrap;
