@@ -421,6 +421,9 @@ footer {
 /* responsividade de 1150px até 500px */
 @media (max-width: 1150px) {
 
+    main{
+        margin: auto;
+    }
     header {
         width: auto;
         height: auto;
