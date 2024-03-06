@@ -341,3 +341,11 @@ footer {
     font-size: 11px;
     margin-left: 30px;
 }
+
+.sobre_nos{
+    text-align: start;
+    text-decoration: none;
+    font-size: 1em;
+    padding: 2em;
+    color: var(--fonte-preta);
+}
